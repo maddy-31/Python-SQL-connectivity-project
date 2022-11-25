@@ -15,7 +15,7 @@ c1.execute(abc)
 conn.commit()
 #c1.execute("create table hostel_management(roll_no int primary key,name varchar(20),address varchar(100),room_no int,dept varchar(15),fees int,bal int)
 
-print("                                   WELCOME TO  HOSTEL MANAGEMENT                                   ")
+print("     WELCOME TO  HOSTEL MANAGEMENT   ")
 
 print("     1.ADMISSION FORM")
 
